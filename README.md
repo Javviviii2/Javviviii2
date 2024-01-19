@@ -6,4 +6,4 @@
   - Python 🐍  
   - Scripting (Bash and Powershell)
 
-*🔮 I'm focusing my future to work as DevOps with strong knowledge of Security
+* 🔮 I'm focusing my future to work as DevOps🔄 with strong knowledge about Security🔒  and Cloud ☁ 
